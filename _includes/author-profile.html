@@ -25,6 +25,13 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
+      {% if author.employer_name and author.employer_url %}
+        <li>
+          <a href="{{ author.employer_url }}" target="_blank">
+            <i class="fa fa-fw fa-university" aria-hidden="true"></i> {{ author.employer_name }}
+          </a>
+        </li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}

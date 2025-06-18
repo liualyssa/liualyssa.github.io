@@ -21,11 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Alyssa Liu"
+  name             : "Xiaole (Alyssa) Liu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D. Candidate"
-  location         : # "NYU Stern School of Business"
-  employer         : "NYU Stern School of Business"
+  location         : #"NYU Stern School of Business"
+  employer         : #"NYU Stern School of Business"
+  employer_name    : "NYU Stern"
+  employer_url     : "https://www.stern.nyu.edu"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "xl2500@stern.nyu.edu"
