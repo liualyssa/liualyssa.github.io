@@ -89,16 +89,18 @@
   width: 100%;
   // set width only, for non-square avatars
   // height: 36px;
+  margin-bottom: 10px;
 
   @include breakpoint($large) {
     display: block;
     width: auto;
     height: auto;
+    margin-bottom: 0;
   }
 
   img {
-    max-width: 120px;
-    min-width: 75px;
+    max-width: 175px;
+    min-width: 175px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -164,6 +166,7 @@
   position: relative;
   // margin-left: auto;
   margin-left: 0;
+  text-align: left; 
   align-self: flex-start;
   cursor: pointer;
 
