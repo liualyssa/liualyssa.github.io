@@ -24,9 +24,9 @@ My research broadly focuses on problems in healthcare operations, where I combin
 
 <!-- I am on the 2025-2026 academic job market. -->
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# News
+- *2025.10*: &nbsp; I will be attending INFORMS 2025 in Atlanta and presenting in the session *Advances in Healthcare Operations and Analytics* on Monday, October 27, from 1꞉15 PM to 2꞉30 PM [[Link]](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/EventDetail.aspx?evt=117)
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # Research
 
@@ -42,40 +42,40 @@ My research broadly focuses on problems in healthcare operations, where I combin
 <!-- </div>
 </div> -->
 
-- [Measuring the Heterogeneous Effect of Emergency Department Boarding on Inpatient Length of Stay: Toward Efficient and Equitable Inpatient Bed Assignment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288627)<br>
-  with Jing Dong, Yosef Berlyand, Martin S. Copenhaver
+- Measuring the Heterogeneous Effect of Emergency Department Boarding on Inpatient Length of Stay: Toward Efficient and Equitable Inpatient Bed Assignment [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288627)<br>
+  with Jing Dong, <a href="https://em.med.brown.edu/people/yosef-berlyand-md" style="text-decoration: none; color: inherit;">Yosef Berlyand</a>, <a href="https://malonecenter.jhu.edu/people/martin-copenhaver/" style="text-decoration: none; color: inherit;">Martin S. Copenhaver</a>
 
-- [Telemedicine versus In-Person Outpatient Care: Equilibrium, Capacity, and Quality Differentiation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5048340)<br>
+- Telemedicine versus In-Person Outpatient Care: Equilibrium, Capacity, and Quality Differentiation [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5048340)<br>
   with Mor Armony<br>
-  Major Revision in *Manufacturing & Service Operations Management* 
+  <!-- Major Revision in *Manufacturing & Service Operations Management*  -->
 
-- Fair and Efficient Outpatient Scheduling with Stratified No-Show Prediction [*Available on Request*]<br>
+- Fair and Efficient Outpatient Scheduling with Stratified No-Show Prediction [*Available upon Request*]<br>
   with Jing Dong, Rouba Ibrahim
 
-- Proactive Admission Control for Emergency Departments: Integrating Demand and Inpatient Admission Delay Predictions [*Available on Request*]<br>
+- Proactive Admission Control for Emergency Departments: Integrating Demand and Inpatient Admission Delay Predictions [*Available upon Request*]<br>
   with Ruicheng Ao, Jing Dong
 
-- [Private and Public Incentives for Hospitals to Improve the Quality and Reduce the Cost of Care](https://hmpi.org/2019/11/25/private-and-public-incentives-for-hospitals-to-improve-the-quality-and-reduce-the-cost-of-care/)<br>
+- Private and Public Incentives for Hospitals to Improve the Quality and Reduce the Cost of Care [[Link]](https://hmpi.org/2019/11/25/private-and-public-incentives-for-hospitals-to-improve-the-quality-and-reduce-the-cost-of-care/)<br>
   with Kevin Schulman, David Scheinker<br> 
-  *Health Management Policy and Innovation*, 2019.
+  <!-- *Health Management Policy and Innovation*, 2019. -->
 
 # Teaching
 - **Instructor** 
   - OPMG-UB.1: Operations Management, NYU Stern undergraduate core course, 2024<br>
     Teaching evaluation: 4.8/5.0
 - **Teaching Assistant**
-  - COR1-GB.2114: Operations (MS), NYU Stern, 2023, 2025
-  - SHBI-GB.7301: Stochastic Modeling & Simulation (MS), NYU Stern, 2022
-  - OPMG-UB.1: Operations Management (BS), NYU Stern, 2022
-  - IEOR E4729: Model-Based Trading: Theory and Practice (MS), Columbia University, 2020
-  - IEOR E4150: Introduction to Probability and Statistics (MS), Columbia University, 2019
+  - COR1-GB.2114: Operations (M.Sc.), NYU Stern, 2023, 2025
+  - SHBI-GB.7301: Stochastic Modeling & Simulation (M.Sc.), NYU Stern, 2022
+  - OPMG-UB.1: Operations Management (undergraduate), NYU Stern, 2022
+  - IEOR E4729: Model-Based Trading: Theory and Practice (M.Sc.), Columbia University, 2020
+  - IEOR E4150: Introduction to Probability and Statistics (M.Sc.), Columbia University, 2019
   
 <!-- # Awards
 - W. Edwards Deming Fellowship, NYU Stern, 2024
 - Operations Research Graduate Fellowship, Columbia University, 2020 -->
 
-<!-- # CV
-- [Download CV](/images/cv.pdf) -->
+# CV
+- [Download CV](/images/cv.pdf)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

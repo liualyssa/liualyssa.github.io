@@ -130,6 +130,13 @@
       {% if author.uri %}
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
+      {% if author.employer_name and author.employer_url %}
+        <li>
+          <a href="{{ author.employer_url }}" target="_blank">
+            <i class="fa fa-fw fa-university" aria-hidden="true"></i> {{ author.employer_name }}
+          </a>
+        </li>
+      {% endif %}
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
