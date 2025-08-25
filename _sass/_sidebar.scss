@@ -71,17 +71,22 @@
 .profile_box{
   @include breakpoint($large) {
     display: block;
+    justify-content: flex-start;
+    align-content: flex-start;
   }
   display: flex;
-  justify-content: flex-start;
-  align-content: flex-start;
+  flex-direction: column; // small
+  // justify-content: flex-start;
+  // align-content: flex-start;
   align-items: center;
 }
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 75px;
+  // display: table-cell;
+  // vertical-align: top;
+  display: block;
+  // width: 75px;
+  width: 100%;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -92,13 +97,14 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 120px;
     min-width: 75px;
     border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
+      max-width: 175px;
     }
   }
 }
