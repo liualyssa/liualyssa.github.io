@@ -78,7 +78,8 @@
   flex-direction: column; // small
   // justify-content: flex-start;
   // align-content: flex-start;
-  align-items: flex-start;
+  align-items: center;
+  text-align: left;
 }
 
 .author__avatar {
@@ -117,7 +118,7 @@
   display: block;
   // padding-left: 10px;
   // min-width: 120px;
-  padding-left: 10;
+  // padding-left: 10;
   width: 100%;
   // padding-right: 25px;
   line-height: 1;
