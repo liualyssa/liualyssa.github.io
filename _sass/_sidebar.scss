@@ -78,7 +78,7 @@
   flex-direction: column; // small
   // justify-content: flex-start;
   // align-content: flex-start;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .author__avatar {
@@ -113,8 +113,10 @@
   // display: table-cell;
   // vertical-align: top;
   display: block;
-  padding-left: 10px;
-  min-width: 120px;
+  // padding-left: 10px;
+  // min-width: 120px;
+  padding-left: 0;
+  width: 100%;
   // padding-right: 25px;
   line-height: 1;
 
@@ -160,7 +162,9 @@
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
-  margin-left: auto;
+  // margin-left: auto;
+  margin-left: 0;
+  align-self: flex-start;
   cursor: pointer;
 
   li:last-child {
