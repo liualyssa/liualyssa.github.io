@@ -24,8 +24,8 @@ My research broadly focuses on problems in healthcare operations, where I combin
 
 <!-- I am on the 2025-2026 academic job market. -->
 
-# News
-- *2025.10*: &nbsp; I will be attending INFORMS 2025 in Atlanta and presenting in the session *Advances in Healthcare Operations and Analytics* on Monday, October 27, from 1꞉15 PM to 2꞉30 PM [[Link]](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/EventDetail.aspx?evt=117)
+<!-- # News
+- *2025.10*: &nbsp; I will be attending INFORMS 2025 in Atlanta and presenting in the session *Advances in Healthcare Operations and Analytics* on Monday, October 27, from 1꞉15 PM to 2꞉30 PM [[Link]](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/EventDetail.aspx?evt=117) -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # Research
