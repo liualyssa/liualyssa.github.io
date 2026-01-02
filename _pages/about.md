@@ -52,7 +52,7 @@ My research broadly focuses on problems in healthcare operations, where I combin
 - Fair and Efficient Outpatient Scheduling with Stratified No-Show Prediction [*Available upon Request*]<br>
   with Jing Dong, Rouba Ibrahim
 
-- Proactive Admission Control for Emergency Departments: Integrating Demand and Inpatient Admission Delay Predictions [*Available upon Request*]<br>
+- Proactive Transfer Admission Control for Emergency Departments [*Available upon Request*]<br>
   with Ruicheng Ao, Jing Dong
 
 - Private and Public Incentives for Hospitals to Improve the Quality and Reduce the Cost of Care [[Link]](https://hmpi.org/2019/11/25/private-and-public-incentives-for-hospitals-to-improve-the-quality-and-reduce-the-cost-of-care/)<br>
