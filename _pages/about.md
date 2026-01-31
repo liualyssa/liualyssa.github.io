@@ -49,11 +49,11 @@ My research broadly focuses on problems in healthcare operations, where I combin
   with Mor Armony<br>
   <!-- Major Revision in *Manufacturing & Service Operations Management*  -->
 
-- Fair and Efficient Outpatient Scheduling with Stratified No-Show Prediction [*Available upon Request*]<br>
-  with Jing Dong, Rouba Ibrahim
-
 - Proactive Transfer Admission Control for Emergency Departments [*Available upon Request*]<br>
-  with Ruicheng Ao, Jing Dong
+  with Ruicheng Ao, Jing Dong, <a href="https://malonecenter.jhu.edu/people/martin-copenhaver/" style="text-decoration: none; color: inherit;">Martin S. Copenhaver</a>
+
+- Fair and Efficient Outpatient Scheduling with Stratified No-Show Prediction [*Available upon Request*]<br>
+  with Jing Dong, <a href="https://www.mgmt.ucl.ac.uk/people/roubaibrahim" style="text-decoration: none; color: inherit;">Rouba Ibrahim</a>
 
 - Private and Public Incentives for Hospitals to Improve the Quality and Reduce the Cost of Care [[Link]](https://hmpi.org/2019/11/25/private-and-public-incentives-for-hospitals-to-improve-the-quality-and-reduce-the-cost-of-care/)<br>
   with Kevin Schulman, David Scheinker<br> 
@@ -64,7 +64,7 @@ My research broadly focuses on problems in healthcare operations, where I combin
   - OPMG-UB.1: Operations Management, NYU Stern undergraduate core course, 2024<br>
     Teaching evaluation: 4.8/5.0
 - **Teaching Assistant**
-  - COR1-GB.2114: Operations (M.Sc.), NYU Stern, 2023, 2025
+  - COR1-GB.2114: Operations (M.Sc.), NYU Stern, 2023, 2025, 2026
   - SHBI-GB.7301: Stochastic Modeling & Simulation (M.Sc.), NYU Stern, 2022
   - OPMG-UB.1: Operations Management (undergraduate), NYU Stern, 2022
   - IEOR E4729: Model-Based Trading: Theory and Practice (M.Sc.), Columbia University, 2020
