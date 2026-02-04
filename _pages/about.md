@@ -49,8 +49,8 @@ My research broadly focuses on problems in healthcare operations, where I combin
   with Mor Armony<br>
   <!-- Major Revision in *Manufacturing & Service Operations Management*  -->
 
-- Proactive Transfer Admission Control for Emergency Departments [*Available upon Request*]<br>
-  with Ruicheng Ao, Jing Dong, <a href="https://malonecenter.jhu.edu/people/martin-copenhaver/" style="text-decoration: none; color: inherit;">Martin S. Copenhaver</a>
+- Proactive Transfer Admission Control for Emergency Departments [[Link]](/images/ED_admission.pdf)<br>
+  with Ruicheng Ao, Jing Dong, Martin S. Copenhaver<br>
 
 - Fair and Efficient Outpatient Scheduling with Stratified No-Show Prediction [*Available upon Request*]<br>
   with Jing Dong, <a href="https://www.mgmt.ucl.ac.uk/people/roubaibrahim" style="text-decoration: none; color: inherit;">Rouba Ibrahim</a>
