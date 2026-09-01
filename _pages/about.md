@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am a Ph.D. candidate in Operations Management at NYU Stern School of Business. I am fortunate to be advised by [Mor Armony](https://www.stern.nyu.edu/faculty/bio/mor-armony) (NYU Stern), [Jing Dong](https://business.columbia.edu/faculty/people/jing-dong) (Columbia Business School), and [Rouba Ibrahim](https://www.mgmt.ucl.ac.uk/people/roubaibrahim) (UCL School of Management).
+I am an Assistant Professor at Rutgers Business School. I received my Ph.D. in Operations Management from the Stern School of Business at New York University.
+<!-- I am a Ph.D. candidate in Operations Management at NYU Stern School of Business. I am fortunate to be advised by [Mor Armony](https://www.stern.nyu.edu/faculty/bio/mor-armony) (NYU Stern), [Jing Dong](https://business.columbia.edu/faculty/people/jing-dong) (Columbia Business School), and [Rouba Ibrahim](https://www.mgmt.ucl.ac.uk/people/roubaibrahim) (UCL School of Management). -->
 
 My research broadly focuses on problems in healthcare operations, where I combine methods from stochastic modeling, econometrics, and machine learning to develop empirically grounded models that yield operational insights into healthcare systems. Drawing on real-world collaborations with leading hospitals, my work seeks to improve both efficiency and fairness in patient care delivery. At the core of my work is a commitment to rigorous analysis and practical impact, with an interdisciplinary perspective and a long-term vision for designing implementable, effective, and equitable solutions to complex operations challenges.
 
@@ -62,7 +63,7 @@ My research broadly focuses on problems in healthcare operations, where I combin
 # Teaching
 - **Instructor** 
   - OPMG-UB.1: Operations Management, NYU Stern undergraduate core course, 2024<br>
-    Teaching evaluation: 4.8/5.0
+    <!-- Teaching evaluation: 4.8/5.0 -->
 - **Teaching Assistant**
   - COR1-GB.2114: Operations (M.Sc.), NYU Stern, 2023, 2025, 2026
   - SHBI-GB.7301: Stochastic Modeling & Simulation (M.Sc.), NYU Stern, 2022
