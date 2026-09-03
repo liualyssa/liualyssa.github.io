@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am an Assistant Professor at Rutgers Business School. I received my Ph.D. in Operations Management from the Stern School of Business at New York University.
+I am an Assistant Professor at <a href="https://www.business.rutgers.edu" style="text-decoration: none; color: inherit;">Rutgers Business School</a>. I received my Ph.D. in Operations Management from the <a href="https://www.stern.nyu.edu" style="text-decoration: none; color: inherit;">Stern School of Business at New York University</a>.
 <!-- I am a Ph.D. candidate in Operations Management at NYU Stern School of Business. I am fortunate to be advised by [Mor Armony](https://www.stern.nyu.edu/faculty/bio/mor-armony) (NYU Stern), [Jing Dong](https://business.columbia.edu/faculty/people/jing-dong) (Columbia Business School), and [Rouba Ibrahim](https://www.mgmt.ucl.ac.uk/people/roubaibrahim) (UCL School of Management). -->
 
 My research broadly focuses on problems in healthcare operations, where I combine methods from stochastic modeling, econometrics, and machine learning to develop empirically grounded models that yield operational insights into healthcare systems. Drawing on real-world collaborations with leading hospitals, my work seeks to improve both efficiency and fairness in patient care delivery. At the core of my work is a commitment to rigorous analysis and practical impact, with an interdisciplinary perspective and a long-term vision for designing implementable, effective, and equitable solutions to complex operations challenges.
@@ -44,10 +44,10 @@ My research broadly focuses on problems in healthcare operations, where I combin
 </div> -->
 
 - Measuring the Heterogeneous Effect of Emergency Department Boarding on Inpatient Length of Stay: Toward Efficient and Equitable Inpatient Bed Assignment [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288627)<br>
-  with Jing Dong, <a href="https://em.med.brown.edu/people/yosef-berlyand-md" style="text-decoration: none; color: inherit;">Yosef Berlyand</a>, <a href="https://malonecenter.jhu.edu/people/martin-copenhaver/" style="text-decoration: none; color: inherit;">Martin S. Copenhaver</a>
+  with <a href="https://business.columbia.edu/faculty/people/jing-dong" style="text-decoration: none; color: inherit;">Jing Dong</a>, <a href="https://em.med.brown.edu/people/yosef-berlyand-md" style="text-decoration: none; color: inherit;">Yosef Berlyand</a>, <a href="https://malonecenter.jhu.edu/people/martin-copenhaver/" style="text-decoration: none; color: inherit;">Martin S. Copenhaver</a>
 
 - Telemedicine versus In-Person Outpatient Care: Equilibrium, Capacity, and Quality Differentiation [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5048340)<br>
-  with Mor Armony<br>
+  with <a href="https://www.stern.nyu.edu/faculty/bio/mor-armony" style="text-decoration: none; color: inherit;">Mor Armony</a><br>
   <!-- Major Revision in *Manufacturing & Service Operations Management*  -->
 
 - Proactive Transfer Admission Control for Emergency Departments [[Link]](/images/ED_admission.pdf)<br>
